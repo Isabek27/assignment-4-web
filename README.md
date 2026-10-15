@@ -23,4 +23,4 @@ This is a simple two-page web project for Astana IT University (AITU) built with
 * `README.md` — Project documentation
 
 ## Live Demo
-[Paste your GitHub Pages link here]
+https://isabek27.github.io/assignment-4-web/
